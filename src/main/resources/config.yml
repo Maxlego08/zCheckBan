@@ -1,0 +1,14 @@
+# HEX Colors support
+
+permission: checkban.use
+no-perms: '#eb4034No perms!'
+
+invalid-usage: |-
+  #6dc0ed⬛ #34abebHelp:
+  ⬛ #3477eb/%s <player>
+  ⬛ #3477eb/%s reload
+
+is-banned: '#34ebae%s banned!'
+is-not-banned: '#eb6234%s not banned, or not found'
+
+reloaded: 'Config reloaded'

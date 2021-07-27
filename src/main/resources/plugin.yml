@@ -1,0 +1,13 @@
+# By Zhenaxel
+
+name: zCheckBan
+version: ${project.version}
+main: ru.zhenaxel.zcheckban.zCheckBan
+api-version: 1.13
+author: Zhenaxel
+website: §bZhenaxel#3330
+
+commands:
+  isban:
+    aliases: [ checkban ]
+    description: checkban command
